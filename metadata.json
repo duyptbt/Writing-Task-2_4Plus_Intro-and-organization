@@ -1,0 +1,6 @@
+{
+  "name": "Writing Task 2 - Level B1 (4.0 Plus)",
+  "description": "Interactive IELTS Writing Task 2 study module focusing on Introduction & Organization at Level B1 (4.0 Plus).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
